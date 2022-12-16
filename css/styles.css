@@ -4227,7 +4227,7 @@ fieldset:disabled .btn {
 .nav-link {
   display: block;
   padding: 0.5rem 1rem;
-  color: #f4623a;
+  color: #167ec8;
   text-decoration: none;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
     border-color 0.15s ease-in-out;
@@ -4239,7 +4239,7 @@ fieldset:disabled .btn {
 }
 .nav-link:hover,
 .nav-link:focus {
-  color: #c34e2e;
+  color: #167ec8;
 }
 .nav-link.disabled {
   color: #6c757d;
@@ -11730,7 +11730,7 @@ hr.divider-light {
 }
 #mainNav .navbar-nav .nav-item .nav-link:hover,
 #mainNav .navbar-nav .nav-item .nav-link:active {
-  color: #f4623a;
+  color: #167ec8;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active {
   color: #167ec8 !important;
@@ -11770,7 +11770,7 @@ hr.divider-light {
     color: #212529;
   }
   #mainNav.navbar-shrink .navbar-nav .nav-item .nav-link:hover {
-    color: #f4623a;
+    color: #167ec8;
   }
 }
 
@@ -11848,7 +11848,7 @@ header.masthead .h1 {
   text-align: center;
   opacity: 0;
   color: #fff;
-  background: rgba(244, 98, 58, 0.9);
+  background: rgba(22, 126, 200, 0.9);
   transition: opacity 0.25s ease;
   text-align: center;
 }
