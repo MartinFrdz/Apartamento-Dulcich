@@ -11905,3 +11905,8 @@ header.masthead .h1 {
 #portfolio .container-xxl .portfolio-box:hover .portfolio-box-caption {
   opacity: 1;
 }
+
+.btn-whatsapp:hover {
+  color: white;
+  background-color: #25d366;
+}
